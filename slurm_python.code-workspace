@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+			"name": "slurm_python",
 			"path": "."
 		}
 	],
